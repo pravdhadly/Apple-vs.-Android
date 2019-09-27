@@ -1,0 +1,58 @@
+body {
+    font-family: 'Proza Libre', sans-serif;
+    letter-spacing: 0.5px;
+    background-color: #cabfb6;
+}
+
+Div {
+    width: 700px;
+    background-color: white;
+    padding: 40px 100px;
+    margin: auto;
+}
+
+img {
+    width: 700px;
+}
+
+.middle {
+    text-align: center;
+    background-color: #c9793b;
+    width: 200px;
+    padding: 13px;
+    border-radius: 7px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+
+button {
+    font-size: 20px;
+}
+
+.android {
+    color: black;
+    background-color: #a4c93b;
+    width: 120px;
+    height: 33px;
+    border-radius: 3px;
+}
+
+.apple {
+    color: black;
+    background-color: #b6bcca;
+    width: 100px;
+    height: 33px;
+    border-radius: 3px;
+}
+
+h2 {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.middle:hover {
+    border: 1px solid black;
+}
